@@ -6,8 +6,8 @@ import android.widget.Toast
 import com.andi.dependencies.data.ResultUsers
 import kotlinx.android.synthetic.main.activity_main.*
 import retrofit2.Call
+import retrofit2.Callback
 import retrofit2.Response
-import javax.security.auth.callback.Callback
 
 class MainActivity : AppCompatActivity() {
 
